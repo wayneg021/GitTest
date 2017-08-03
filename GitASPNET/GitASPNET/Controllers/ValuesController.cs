@@ -14,6 +14,7 @@ namespace GitASPNET.Controllers
         public IEnumerable<string> Get()
         {
             // For testing purpose
+            // Change from VS
             return new string[] { "value1", "value2" };
         }
 

@@ -15,7 +15,7 @@ namespace GitASPNET.Controllers
         {
             // For testing purpose
             // Change from VS
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "value3" };
         }
 
         // GET api/values/5

@@ -13,6 +13,7 @@ namespace GitASPNET.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
+            // For testing
             return new string[] { "value1", "value2" };
         }
 
